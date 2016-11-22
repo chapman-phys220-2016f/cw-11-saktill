@@ -1,8 +1,8 @@
 # PHYS220 CW 11 
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _\<Will and Sakthi\>_
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-11-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-11-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-11-saktill.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-11-saktill)
 
 **Due date:** 2016/11/15
 
@@ -56,7 +56,7 @@ In practice, the 4th-order Runge-Kutta method is the most popular method for int
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+Again, discretized functions are the cornerstone of scientific computation, and learning the various methods was informative. In particular, it informed us that Runge-Kutta 4th Order is the way to go. 
 
 ## Honor Pledge
 
@@ -67,4 +67,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Will and Sakthi
